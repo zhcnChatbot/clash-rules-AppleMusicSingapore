@@ -1,0 +1,36 @@
+# 这部分推荐代理
+
+# apple music 1 等 apple 直播
+radio.itunes.apple.com
+radio-activity.itunes.apple.com
+itsliveradio.apple.com
+
+# 新加坡本地电台(tunein)，请使用新加坡IP
+pls.tunein.com
+playerservices.streamtheworld.com
+live.streamtheworld.com
+provisioning.streamtheworld.com
+
+
+# BBC Singapore & International Radio，请使用新加坡IP
+
+bbc.co.uk
+bbci.co.uk
+bbcmedia.co.uk
+gb25.streamgates.net
+mediaserviceslive.akamaized.net
+rthkradio3-live.akamaized.net
+rthkradio3-lh.akamaihd.net
+icestreaming.rai.it
+flumotion.com
+stream.bigfm.de
+audiotainment-sw.streamabc.net
+msvdn.net
+icecast.unitedradio.it
+zeno.fm
+as-hls-ww-live.akamaized.net
+noasrv.caster.fm
+
+# 资料库中自己上传的歌曲
+
+blobstore.apple.com

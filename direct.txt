@@ -1,0 +1,21 @@
+# 该部分推荐直连，在中国大陆有CDN节点
+
+#初始化
+init.itunes.apple.com
+
+#搜索相关
+amp-api.music.apple.com
+
+# 音乐和MV播放
+mvod.itunes.apple.com
+play.itunes.apple.com
+aod.itunes.apple.com
+
+# 不知道是做什么用的
+client-api.itunes.apple.com
+se2.itunes.apple.com
+xp.apple.com
+
+# 资料库更新
+librarydaap.itunes.apple.com
+sync.itunes.apple.com
