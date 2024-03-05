@@ -1,5 +1,5 @@
 # clash-rules-AppleMusicSingapore
-# Apple Music 新加坡区专用分流规则\
+# Apple Music 新加坡区专用分流规则
 起因：因为找遍全网都没找到好用的，于是自己抓域名做了一个......\
 初衷：大多数geosite和分流规则都只针对 Apple 自家的域名做，而对 Apple Music中的广播系列（包括本地电台、Apple Music 1 和 BBC 等国际电台）没有做分流。\
 且根据观察，很多域名已经被弃用和换新。但大多数网站没有根据变动对上述域名及时更新，导致 Apple Music 使用体验不佳，难以满足本人的使用需求。\
